@@ -15,6 +15,26 @@
   color: white;
 }
 
+.info{
+    display: flex;
+  justify-content: space-between;
+}
+
+.price{
+    font-size: 1.5rem;
+  font-weight: bold;
+  color:#2BA897 ;
+  margin-bottom: 0.5rem;
+  width: 50%;
+}
+
+.time-left{
+    font-size: 1.5rem;
+  color: #999999;
+  margin-bottom: 1rem;
+  width: 50%;
+}
+
 #pfp {
   height: 2.5rem;
   width: 2.5rem;
