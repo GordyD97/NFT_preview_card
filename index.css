@@ -1,0 +1,26 @@
+.card-body {
+  height: 35rem;
+  width: 20rem;
+  background-color: #081b53;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: white;
+}
+
+#pfp {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+#nft {
+  height: 14.5rem;
+  width: 14.5rem;
+}
