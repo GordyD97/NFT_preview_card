@@ -13,11 +13,16 @@
 
 .title {
   color: white;
+  font-size: 2rem;
 }
 
 .info{
     display: flex;
   justify-content: space-between;
+}
+
+.special{
+     color: #999999;
 }
 
 .price{
@@ -26,6 +31,11 @@
   color:#2BA897 ;
   margin-bottom: 0.5rem;
   width: 50%;
+}
+
+.desc{
+     font-size: 1rem;
+  color: #999999;
 }
 
 .time-left{
@@ -43,4 +53,10 @@
 #nft {
   height: 14.5rem;
   width: 14.5rem;
+}
+
+#profile{
+      display: flex;
+      justify-content: flex-start;
+  justify-content: space-between;
 }
