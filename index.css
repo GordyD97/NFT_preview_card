@@ -11,6 +11,11 @@
   align-items: center;
 }
 
+#profile{
+  display: flex;
+  justify-content: flex-start;
+}
+
 .title {
   color: white;
   font-size: 2rem;
