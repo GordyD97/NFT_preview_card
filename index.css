@@ -31,7 +31,7 @@
 }
 
 .price{
-    font-size: 1.5rem;
+    font-size: -.5rem;
   font-weight: bold;
   color:#2BA897 ;
   margin-bottom: 0.5rem;
@@ -44,7 +44,7 @@
 }
 
 .time-left{
-    font-size: 1.5rem;
+    font-size: -.5rem;
   color: #999999;
   margin-bottom: 1rem;
   width: 50%;
@@ -53,15 +53,26 @@
 #pfp {
   height: 2.5rem;
   width: 2.5rem;
+  border-radius: 50%;
+  border: 2px solid white;
 }
 
 #nft {
-  height: 14.5rem;
-  width: 14.5rem;
+  height: 17.5rem;
+  width: 19.5rem;
+  border-radius: .5rem;
 }
 
 #profile{
       display: flex;
       justify-content: flex-start;
   justify-content: space-between;
+}
+
+hr{
+  width: 310px;
+}
+
+p{
+  color: #786262;
 }
